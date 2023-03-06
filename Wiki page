@@ -1,0 +1,45 @@
+# App01 wiki!
+
+## Course: Bsc Software Engineering
+
+### My interest in software engineering stems from me being intrigued by the nature of computing and how people are able to make things work, mainly computers, robots, software applications, and newer devices. Although I hadn't studied any computing related subjects in sixth form, I've had an interest in the computing community for a while, and enjoy discussing trending topics within the field. I decided to enroll on this course because I wanted to learn actual coding skills and languages, which would help make me a proficient software engineer. 
+
+## CO453 Lesson : Thursday 10:00 Nicholas
+## Course work Assessment Part 1
+1. [App01: Distance Converter]()
+
+## This is the menu page for the Apps, where you can choose which one to use (We will be using the Distance Converter app)
+![image](https://user-images.githubusercontent.com/114832186/222708740-6deb48d7-6a64-401e-808d-39aa24a47247.png)
+
+## If the user enters a number other than 1 or 2, the app will display an "invalid input" message:
+
+![image](https://user-images.githubusercontent.com/114832186/222714602-31525f04-0625-474e-9872-a0680481c394.png)
+
+## After selecting a unit to convert to, if the user adds a random letter after the number that they wish to convert, the application will give an incorrect format message:
+
+![image](https://user-images.githubusercontent.com/114832186/222715736-fa24e610-cc4f-4363-b911-5659b1dda986.png)
+
+## There are 4 choices to choose from, numbered 1 to 4, and the user has typed in 5. The app will now inform the user that this choice is invalid, and will prompt the user to select a number from 1 to 4.
+
+![image](https://user-images.githubusercontent.com/114832186/222722819-cb7de407-75ba-4a48-9c27-817857681a44.png)
+
+## The app can convert any number to another unit, given that the ones available are chosen:
+### Examples:
+
+## (Miles to feet)
+
+![image](https://user-images.githubusercontent.com/114832186/222726243-a35303d9-d75f-43bc-b82a-a2936dc1d225.png)
+
+## (Feet to miles)
+
+![image](https://user-images.githubusercontent.com/114832186/222727141-5ba7b321-79f0-4c0d-9e0d-5dea2a7b5480.png)
+
+
+## Evaluation and improvements:
+
+### The app could have had more code to prevent any loopholes from occurring.
+### The app could have also had much more units to choose from, this is a slight limitation, especially for those who use imperial units.
+### A good extension for the app would be a small game for users to play, that lets them guess how many meters are in a kilometer, or any other unit.
+### The app could have benefited from using more switch statements at the very start. This would have made coding the application slightly less time consuming.
+### The app could also have a feature that lets you know the distance between two countries or cities (which would be in a list), and let you convert the distance to different units. This would be an interesting feature that could expand the abilities of the app. 
+
