@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppProject.App04
 {
-    public class Post
+    public class post
     {
         public List<String> comments;
 
